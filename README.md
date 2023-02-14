@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Record Keeping Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Record Keeping project in React using useEffect hook
 
-## Available Scripts
-
-In the project directory, you can run:
+## Installation
 
 ### `npm start`
 
